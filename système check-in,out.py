@@ -1,15 +1,9 @@
-import livres
+import bibliolivres
 import utilisateurs
 
-livre-empruntés = 0
-
-
-
-r = input('Quel utilisateur vous voulez voir?')
-if r == nom and r == prénom:
-    print('type: '+ type)
-    print('Nombres de livres empruntés:'+ len(livres[]))
-    
-    
+tablivres = ["auteur", "titre", livres.editeur, livres.annee, livres.genre, livres.disponible]
+print (tablivres)
+# def gestiondeslivres():
+#     input("Quels sont les livres que vous voulez voir:")
 
     
