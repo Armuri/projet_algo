@@ -17,6 +17,6 @@ tab = []
 for d in content:
     tab.append(Utilisateur(d['nom'],d['prenom'],d['adresse_email'],d['type'],d['livres']))
 
-for user in tab:
-    print(user)
+# for user in tab:
+#     print(user)
 
