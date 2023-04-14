@@ -1,81 +1,81 @@
 [
     {
         "nom": "Dupont",
-        "prénom": "Jean",
+        "prenom": "Jean",
         "age": 23,
-        "adresse email": "jean.dupont@yopmail.com",
+        "adresse_email": "jean.dupont@yopmail.com",
         "type": "étudiant",
         "livres": []
     },
     {
         "nom": "Martin",
-        "prénom": "Alice",
+        "prenom": "Alice",
         "age": 28,
-        "adresse email": "alice.martin@yopmail.com",
+        "adresse_email": "alice.martin@yopmail.com",
         "type": "enseignant",
         "livres": []
     },
     {
         "nom": "Leblanc",
-        "prénom": "Julie",
+        "prenom": "Julie",
         "age": 21,
-        "adresse email": "julie.leblanc@yopmail.com",
+        "adresse_email": "julie.leblanc@yopmail.com",
         "type": "étudiant",
         "livres": []
     },
     {
         "nom": "Lefebvre",
-        "prénom": "Antoine",
+        "prenom": "Antoine",
         "age": 32,
-        "adresse email": "antoine.lefebvre@yopmail.com",
+        "adresse_email": "antoine.lefebvre@yopmail.com",
         "type": "normal",
         "livres": []
     },
     {
         "nom": "Girard",
-        "prénom": "Sophie",
+        "prenom": "Sophie",
         "age": 19,
-        "adresse email": "sophie.girard@yopmail.com",
+        "adresse_email": "sophie.girard@yopmail.com",
         "type": "étudiant",
         "livres": []
     },
     {
         "nom": "Moreau",
-        "prénom": "Lucie",
+        "prenom": "Lucie",
         "age": 25,
-        "adresse email": "lucie.moreau@yopmail.com",
+        "adresse_email": "lucie.moreau@yopmail.com",
         "type": "enseignant",
         "livres": []
     },
     {
         "nom": "Tremblay",
-        "prénom": "Mélanie",
+        "prenom": "Mélanie",
         "age": 20,
-        "adresse email": "melanie.tremblay@yopmail.com",
+        "adresse_email": "melanie.tremblay@yopmail.com",
         "type": "étudiant",
         "livres": []
     },
     {
         "nom": "Gagnon",
-        "prénom": "Maxime",
+        "prenom": "Maxime",
         "age": 29,
-        "adresse email": "maxime.gagnon@yopmail.com",
+        "adresse_email": "maxime.gagnon@yopmail.com",
         "type": "enseignant",
         "livres": []
     },
     {
         "nom": "Roy",
-        "prénom": "Alexandre",
+        "prenom": "Alexandre",
         "age": 22,
-        "adresse email": "alexandre.roy@yopmail.com",
+        "adresse_email": "alexandre.roy@yopmail.com",
         "type": "étudiant",
         "livres": []
     },
     {
         "nom": "Bergeron",
-        "prénom": "Philippe",
+        "prenom": "Philippe",
         "age": 31,
-        "adresse email": "philippe.bergeron@yopmail.com",
+        "adresse_email": "philippe.bergeron@yopmail.com",
         "type": "normal",
         "livres": []
     }
