@@ -11,7 +11,7 @@ class Livre :
     def __str__(self):
         return "Ce livre est un/une : " + self.genre + " du nom de : " + self.titre + " écrit par : " + self.auteur + ',' " édité par : " + self.editeur + ' publié en : ' + str(int(self.annee))
         
-f = open("livres.json", "r")
+f = open("bibliolivres.json", "r")
 content = json.load(f)
 
 tab = []
