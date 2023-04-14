@@ -1,9 +1,10 @@
-# import bibliolivres
-# import utilisateurs
+import livres
+import main2
 
-# tablivres = ["auteur", "titre", livres.editeur, livres.annee, livres.genre, livres.disponible]
-# print (tablivres)
-# def gestiondeslivres():
-#     input("Quels sont les livres que vous voulez voir:")
+livres.loadBook()
+if util1 == "1":
+    
+
+
 
     

@@ -19,7 +19,7 @@ while(True):
                 reserv_util1 = input("Parmi les livres disponibles, entrer le numéro du livre "'\n'
                                      "Q - Quitter l'interface"'\n')
                 if reserv_util1 == "1" : 
-                    # !!!!! à modifier !!!!!
+        
                     print("Votre réservation a été prise en compte")
                     break
                 else:
@@ -71,7 +71,6 @@ while(True):
                                 "3 - Supprimer un livre"'\n'
                                 "4 - Quittez l'interface"'\n')
             if livre_admin =="1":
-                # !!!! à mofifier !!!!
                 a1 = input('Auteur du livre : ')
                 t1 = input('Titre du livre : ')
                 e1 = input('Editeur du livre : ')
