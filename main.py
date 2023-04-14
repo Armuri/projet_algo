@@ -1,7 +1,9 @@
 import livres 
 import utilisateurs 
 
+livres.loadBook()
 a = input('1 = utilisateurs ou  2 = gestionnaire/admin ? \n')
+print('test')
 if a == str(1) : 
     util = input('Bienvenue utilisateur/utilisatrice, écrivez 1 pour consulter les livres disponibles et 2 pour la gestion de votre compte \n')
     if util == str(1):
