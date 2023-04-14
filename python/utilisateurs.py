@@ -27,4 +27,4 @@ def loadCheckIn():
     for d in content:
         tab.append(Utilisateur(d['nom'],d['prenom'],d['adresse_email'],d['type'],d['livres']))
     for user in tab:
-        print(user) 
+        print(tab[0],tab[1],tab[2]) 
