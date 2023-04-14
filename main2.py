@@ -7,7 +7,9 @@ if a == str(1) :
     util = input('Bienvenue utilisateur/utilisatrice, écrivez 1 pour consulter les livres disponibles et 2 pour la gestion de votre compte \n')
     if util == str(1):
         livres.loadBook()
-        c = input("Ecrivez 1 pour réserver un livre s'il vous plaît")
+        util1 = input("Ecrivez 1 pour réserver un livre s'il vous plaît \n")
+        if util1 == str(1):
+            
 else:
     admin = input('Bienvenue gestionnaire/admin, écrivez 1 pour consulter la liste des utilisateurs \n')
     if admin == str(1):

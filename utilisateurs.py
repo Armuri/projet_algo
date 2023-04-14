@@ -10,13 +10,13 @@ class Utilisateur :
         
     def __str__(self):
         return self.nom  + '\n' + self.prenom  + '\n' + self.adresse_email + '\n' +  self.type + '\n' + str(self.livres)
-       
-f = open("utilisateurs.json", "r")
-content = json.load(f)
-tab = []
-for d in content:
-    tab.append(Utilisateur(d['nom'],d['prenom'],d['adresse_email'],d['type'],d['livres']))
 
-# for user in tab:
-#     print(user)
+def loadUser():  
+    f = open("utilisateurs.json", "r")
+    content = json.load(f)
+    tab = []
+    for d in content:
+        tab.append(Utilisateur(d['nom'],d['prenom'],d['adresse_email'],d['type'],d['livres']))
+    for user in tab:
+        print(user)
 

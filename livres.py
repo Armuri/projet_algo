@@ -16,6 +16,7 @@ def loadBook():
     content = json.load(f)
 
     tab = []
+    x=0
     for d in content:
         tab.append(Livre(d['auteur'],d['titre'],d['editeur'],d['annee'],d['genre']))
     for livre in tab:
