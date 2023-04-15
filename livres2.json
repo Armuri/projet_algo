@@ -1,176 +1,182 @@
 [
     {
-        "auteur": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
-        "disponible": true,
+        "titre": "Cent ans de solitude",
+        "auteur": "Gabriel García Márquez",
         "id": 1,
-        "titre": "Cent ans de solitude"
+        "disponible": false
     },
     {
+        "titre": "La Métamorphose",
         "auteur": "Franz Kafka",
-        "disponible": true,
         "id": 2,
-        "titre": "La M\u00c3\u00a9tamorphose"
+        "disponible": false
     },
     {
+        "titre": "L'Étranger",
         "auteur": "Albert Camus",
-        "disponible": true,
         "id": 3,
-        "titre": "L'\u00c3\u2030tranger"
+        "disponible": false
     },
     {
+        "titre": "Madame Bovary",
         "auteur": "Gustave Flaubert",
-        "disponible": true,
         "id": 4,
-        "titre": "Madame Bovary"
+        "disponible": false
     },
     {
+        "titre": "Voyage au centre de la Terre",
         "auteur": "Jules Verne",
-        "disponible": true,
         "id": 5,
-        "titre": "Voyage au centre de la Terre"
+        "disponible": false
     },
     {
+        "titre": "À la recherche du temps perdu",
         "auteur": "Marcel Proust",
-        "disponible": true,
         "id": 6,
-        "titre": "\u00c3\u20ac la recherche du temps perdu"
+        "disponible": false
     },
     {
+        "titre": "1984",
         "auteur": "George Orwell",
-        "disponible": true,
         "id": 7,
-        "titre": "1984"
+        "disponible": false
     },
     {
-        "auteur": "Antoine de Saint-Exup\u00c3\u00a9ry",
-        "disponible": true,
+        "titre": "Le Petit Prince",
+        "auteur": "Antoine de Saint-Exupéry",
         "id": 8,
-        "titre": "Le Petit Prince"
+        "disponible": false
     },
     {
+        "titre": "Les Trois Mousquetaires",
         "auteur": "Alexandre Dumas",
-        "disponible": true,
         "id": 9,
-        "titre": "Les Trois Mousquetaires"
+        "disponible": false
     },
     {
+        "titre": "Le Rouge et le Noir",
         "auteur": "Stendhal",
-        "disponible": true,
         "id": 10,
-        "titre": "Le Rouge et le Noir"
+        "disponible": false
     },
     {
+        "titre": "Les Misérables",
         "auteur": "Victor Hugo",
-        "disponible": true,
         "id": 11,
-        "titre": "Les Mis\u00c3\u00a9rables"
+        "disponible": false
     },
     {
+        "titre": "Germinal",
+        "auteur": "Émile Zola",
+        "id": 12,
+        "disponible": false
+    },
+    {
+        "titre": "Bel-Ami",
         "auteur": "Guy de Maupassant",
-        "disponible": true,
         "id": 13,
-        "titre": "Bel-Ami"
+        "disponible": false
     },
     {
+        "titre": "L'Amant",
         "auteur": "Marguerite Duras",
-        "disponible": true,
         "id": 14,
-        "titre": "L'Amant"
+        "disponible": false
     },
     {
-        "auteur": "Fran\u00c3\u00a7oise Sagan",
-        "disponible": true,
+        "titre": "Bonjour tristesse",
+        "auteur": "Françoise Sagan",
         "id": 15,
-        "titre": "Bonjour tristesse"
+        "disponible": false
     },
     {
+        "titre": "Le Vieil Homme et la Mer",
         "auteur": "Ernest Hemingway",
-        "disponible": true,
         "id": 16,
-        "titre": "Le Vieil Homme et la Mer"
+        "disponible": false
     },
     {
+        "titre": "Poil de Carotte",
         "auteur": "Jules Renard",
-        "disponible": true,
         "id": 17,
-        "titre": "Poil de Carotte"
+        "disponible": false
     },
     {
+        "titre": "Les Mots",
         "auteur": "Jean-Paul Sartre",
-        "disponible": true,
         "id": 18,
-        "titre": "Les Mots"
+        "disponible": false
     },
     {
+        "titre": "Poèmes saturniens",
         "auteur": "Paul Verlaine",
-        "disponible": true,
         "id": 19,
-        "titre": "Po\u00c3\u00a8mes saturniens"
+        "disponible": false
     },
     {
+        "titre": "Une Saison en enfer",
         "auteur": "Arthur Rimbaud",
-        "disponible": true,
         "id": 20,
-        "titre": "Une Saison en enfer"
+        "disponible": false
     },
     {
+        "titre": "Le cycle de Dune, tome 1 : Dune",
         "auteur": "Frank Herbert",
-        "disponible": true,
         "id": 21,
-        "titre": "Le cycle de Dune, tome 1 : Dune"
+        "disponible": false
     },
     {
+        "titre": "Fondation",
         "auteur": "Isaac Asimov",
-        "disponible": true,
         "id": 22,
-        "titre": "Fondation"
+        "disponible": false
     },
     {
+        "titre": "La Guerre des mondes",
         "auteur": "H.G. Wells",
-        "disponible": true,
         "id": 23,
-        "titre": "La Guerre des mondes"
+        "disponible": false
     },
     {
+        "titre": "La Tour sombre, tome 1 : Le Pistolero",
         "auteur": "Stephen King",
-        "disponible": true,
         "id": 24,
-        "titre": "La Tour sombre, tome 1 : Le Pistolero"
+        "disponible": false
     },
     {
+        "titre": "L'Assassin royal, tome 1 : L'Apprenti assassin",
         "auteur": "Robin Hobb",
-        "disponible": true,
         "id": 25,
-        "titre": "L'Assassin royal, tome 1 : L'Apprenti assassin"
+        "disponible": false
     },
     {
+        "titre": "Le Seigneur des anneaux, tome 1 : La Communauté de l'anneau",
         "auteur": "J.R.R. Tolkien",
-        "disponible": true,
         "id": 26,
-        "titre": "Le Seigneur des anneaux, tome 1 : La Communaut\u00c3\u00a9 de l'anneau"
+        "disponible": false
     },
     {
+        "titre": "Le Guide du voyageur galactique",
         "auteur": "Douglas Adams",
-        "disponible": true,
         "id": 27,
-        "titre": "Le Guide du voyageur galactique"
+        "disponible": false
     },
     {
+        "titre": "Le Cycle de la Culture, tome 1 : Consider Phlebas",
         "auteur": "Iain M. Banks",
-        "disponible": true,
         "id": 28,
-        "titre": "Le Cycle de la Culture, tome 1 : Consider Phlebas"
+        "disponible": false
     },
     {
+        "titre": "Le Cycle de Mars, tome 1 : Les Sables de Mars",
         "auteur": "Edgar Rice Burroughs",
-        "disponible": true,
         "id": 29,
-        "titre": "Le Cycle de Mars, tome 1 : Les Sables de Mars"
+        "disponible": false
     },
     {
+        "titre": "Le Cycle de Dune, tome 2 : Le Messie de Dune",
         "auteur": "Frank Herbert",
-        "disponible": true,
         "id": 30,
-        "titre": "Le Cycle de Dune, tome 2 : Le Messie de Dune"
+        "disponible": false
     }
 ]

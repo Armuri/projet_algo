@@ -15,7 +15,7 @@ while(True):
         if util == "1":
             livres.AfficheLivre()
             reserv_util = input("Voulez-vous réserver un livre ?"'\n'
-                                "1 - Oui" '\n' 
+                                "1 - Oui" '\n'  
                                 "2 - Non, quitter l'interface" '\n' )
             if reserv_util == "1":
                 auth_util = input("Avez-vous un compte ?"'\n'
@@ -53,7 +53,6 @@ while(True):
                                     "3 - Supprimer un utilisateur"'\n'
                                     "4 - Quitter l'interface"'\n')
                 if super_util1 =="1":
-                    # !!!!! à modifier !!!!!!
                     nom = input("Nom d'utilisateur : ")
                     prenom = input("Prénom d'utilisateur : ")
                     age = input("Age de l'utilisateur : ")
@@ -63,8 +62,7 @@ while(True):
                     utilisateurs.AfficheAllUtilisateur()
                     ("Ajout apporté avec succès")
                     break
-                elif super_util1 =="2":
-                    # !!!!! à modifier !!!!!!
+                elif super_util1 =="2": 
                     nom = input("Nom d'utilisateur : ")
                     prenom = input("Prénom d'utilisateur : ")
                     age = input("Age de l'utilisateur : ")

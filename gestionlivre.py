@@ -51,7 +51,7 @@ def ajoutLivre(auteur,id,disponible,titre):
     
 def modifLivre(id, titre, auteur, disponible):
     print(id, titre, auteur, disponible)
-    print("code marche pas mais nous avons réalisé la démarche.")
+    print("code marche pas mais nous avons réalisé la démarche de réflexion.")
     # f = open("testlivre.json", "r")
     # data = json.load(f)
     # books =[]
