@@ -1,24 +1,38 @@
 import json
 
 class Livre : 
-    def __init__(self,auteur, titre, editeur, annee, genre, disponible):
+    def __init__(self,auteur, id, disponible, titre):
         self.auteur = auteur
-        self.titre = titre
-        self.editeur = editeur
-        self.annee = annee
-        self.genre = genre
+        self.id = id
         self.disponible = disponible
+        self.titre = titre
         
-    def __str__(self):
-        return "Ce livre est un/une : " + self.genre + " du nom de : " + self.titre + " écrit par : " + self.auteur + ',' " édité par : " + self.editeur + ' publié en : ' + str(int(self.annee)) + ' ' + self.disponible
+    def Presentation(self):
+        return str(self.id) + ' - ' + self.titre + " écrit par : " + self.auteur
+    
+    def Disponible(self):
+        if self.disponible == True :
+            return str(self.id) + ' - ' + self.titre + " de " + self.auteur + " est disponible "
+        else:
+            return str(self.id) + ' - '+ self.titre + "de " + self.auteur + " est indisponible"
 
-def loadBook():        
-    f = open("bibliolivres.json", "r")
+def AfficheLivre():        
+    f = open("livres2.json", "r")
     content = json.load(f)
-
     tab = []
-    x=0
     for d in content:
-        tab.append(Livre(d['auteur'],d['titre'],d['editeur'],d['annee'],d['genre'],d['disponible']))
+        tab.append(Livre(d['auteur'],d['id'],d['disponible'],d['titre']))
     for livre in tab:
-        print(livre) 
+        print(Livre.Presentation(livre))
+        
+def AfficheLivreDisp():        
+    f = open("livres2.json", "r")
+    content = json.load(f)
+    tab = []
+    for d in content:
+        tab.append(Livre(d['auteur'],d['id'],d['disponible'],d['titre']))
+
+    for livre in tab:
+        print(Livre.Disponible(livre))
+
+        

@@ -1,3 +1,0 @@
-import utilisateurs
-
-utilisateurs.loadCheckIn()

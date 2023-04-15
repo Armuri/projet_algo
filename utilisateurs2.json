@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nom": "Dupont",
+        "prenom": "Jean",
+        "age": 23,
+        "adresse_email": "jean.dupont@yopmail.com",
+        "type": "\u00c3\u00a9tudiant",
+        "livres": []
+    },
+    {
+        "id": 2,
+        "nom": "Martin",
+        "prenom": "Alice",
+        "age": 28,
+        "adresse_email": "alice.martin@yopmail.com",
+        "type": "enseignant",
+        "livres": []
+    },
+    {
+        "id": 3,
+        "nom": "Leblanc",
+        "prenom": "Julie",
+        "age": 21,
+        "adresse_email": "julie.leblanc@yopmail.com",
+        "type": "\u00c3\u00a9tudiant",
+        "livres": []
+    },
+    {
+        "id": 4,
+        "nom": "Lefebvre",
+        "prenom": "Antoine",
+        "age": 32,
+        "adresse_email": "antoine.lefebvre@yopmail.com",
+        "type": "normal",
+        "livres": []
+    },
+    {
+        "id": 5,
+        "nom": "Girard",
+        "prenom": "Sophie",
+        "age": 19,
+        "adresse_email": "sophie.girard@yopmail.com",
+        "type": "\u00c3\u00a9tudiant",
+        "livres": []
+    },
+    {
+        "id": 6,
+        "nom": "Moreau",
+        "prenom": "Lucie",
+        "age": 25,
+        "adresse_email": "lucie.moreau@yopmail.com",
+        "type": "enseignant",
+        "livres": []
+    },
+    {
+        "id": 7,
+        "nom": "Tremblay",
+        "prenom": "M\u00c3\u00a9lanie",
+        "age": 20,
+        "adresse_email": "melanie.tremblay@yopmail.com",
+        "type": "\u00c3\u00a9tudiant",
+        "livres": []
+    },
+    {
+        "id": 8,
+        "nom": "Gagnon",
+        "prenom": "Maxime",
+        "age": 29,
+        "adresse_email": "maxime.gagnon@yopmail.com",
+        "type": "enseignant",
+        "livres": []
+    },
+    {
+        "id": 9,
+        "nom": "Roy",
+        "prenom": "Alexandre",
+        "age": 22,
+        "adresse_email": "alexandre.roy@yopmail.com",
+        "type": "\u00c3\u00a9tudiant",
+        "livres": []
+    }
+]

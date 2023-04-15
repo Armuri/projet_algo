@@ -8,23 +8,37 @@ class Utilisateur :
         self.type = type
         self.livres = livres
         
-    def __str__(self):
+    def presentation(self):
         return self.nom  + '\n' + self.prenom  + '\n' + self.adresse_email + '\n' +  self.type + '\n' + str(self.livres)
+    
+    def verifuser(self):
+        return "Content de vous revoir " + self.nom 
+    
+    
 
-def loadUser():  
-    f = open("utilisateurs.json", "r")
+def AfficheAllUtilisateur():  
+    f = open("utilisateurs2.json", "r")
     content = json.load(f)
     tab = []
     for d in content:
         tab.append(Utilisateur(d['nom'],d['prenom'],d['adresse_email'],d['type'],d['livres']))
     for user in tab:
-        print(user) 
+        print(Utilisateur.presentation(user)) 
         
-def loadCheckIn():
-    f = open("utilisateurs.json", "r")
+def auth_utilisateur():
+    f = open("utilisateurs2.json", "r")
     content = json.load(f)
-    tab = []
-    for d in content:
-        tab.append(Utilisateur(d['nom'],d['prenom'],d['adresse_email'],d['type'],d['livres']))
-    for user in tab:
-        print(user) 
+    tab=[]
+    nom_utilisateur = input("Entrez votre nom : ")
+    for utilisateur in content:
+        if utilisateur['nom'] == nom_utilisateur:
+            tab.append(Utilisateur(utilisateur['nom'],utilisateur['prenom'],utilisateur['adresse_email'],utilisateur['type'],utilisateur['livres']))
+            for user in tab:
+                print(Utilisateur.verifuser(user))
+        else:
+            StopIteration   
+        
+
+
+
+            

@@ -1,0 +1,176 @@
+[
+    {
+        "auteur": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+        "disponible": true,
+        "id": 1,
+        "titre": "Cent ans de solitude"
+    },
+    {
+        "auteur": "Franz Kafka",
+        "disponible": true,
+        "id": 2,
+        "titre": "La M\u00c3\u00a9tamorphose"
+    },
+    {
+        "auteur": "Albert Camus",
+        "disponible": true,
+        "id": 3,
+        "titre": "L'\u00c3\u2030tranger"
+    },
+    {
+        "auteur": "Gustave Flaubert",
+        "disponible": true,
+        "id": 4,
+        "titre": "Madame Bovary"
+    },
+    {
+        "auteur": "Jules Verne",
+        "disponible": true,
+        "id": 5,
+        "titre": "Voyage au centre de la Terre"
+    },
+    {
+        "auteur": "Marcel Proust",
+        "disponible": true,
+        "id": 6,
+        "titre": "\u00c3\u20ac la recherche du temps perdu"
+    },
+    {
+        "auteur": "George Orwell",
+        "disponible": true,
+        "id": 7,
+        "titre": "1984"
+    },
+    {
+        "auteur": "Antoine de Saint-Exup\u00c3\u00a9ry",
+        "disponible": true,
+        "id": 8,
+        "titre": "Le Petit Prince"
+    },
+    {
+        "auteur": "Alexandre Dumas",
+        "disponible": true,
+        "id": 9,
+        "titre": "Les Trois Mousquetaires"
+    },
+    {
+        "auteur": "Stendhal",
+        "disponible": true,
+        "id": 10,
+        "titre": "Le Rouge et le Noir"
+    },
+    {
+        "auteur": "Victor Hugo",
+        "disponible": true,
+        "id": 11,
+        "titre": "Les Mis\u00c3\u00a9rables"
+    },
+    {
+        "auteur": "\u00c3\u2030mile Zola",
+        "disponible": true,
+        "id": 12,
+        "titre": "Germinal"
+    },
+    {
+        "auteur": "Guy de Maupassant",
+        "disponible": true,
+        "id": 13,
+        "titre": "Bel-Ami"
+    },
+    {
+        "auteur": "Marguerite Duras",
+        "disponible": true,
+        "id": 14,
+        "titre": "L'Amant"
+    },
+    {
+        "auteur": "Fran\u00c3\u00a7oise Sagan",
+        "disponible": true,
+        "id": 15,
+        "titre": "Bonjour tristesse"
+    },
+    {
+        "auteur": "Ernest Hemingway",
+        "disponible": true,
+        "id": 16,
+        "titre": "Le Vieil Homme et la Mer"
+    },
+    {
+        "auteur": "Jules Renard",
+        "disponible": true,
+        "id": 17,
+        "titre": "Poil de Carotte"
+    },
+    {
+        "auteur": "Jean-Paul Sartre",
+        "disponible": true,
+        "id": 18,
+        "titre": "Les Mots"
+    },
+    {
+        "auteur": "Paul Verlaine",
+        "disponible": true,
+        "id": 19,
+        "titre": "Po\u00c3\u00a8mes saturniens"
+    },
+    {
+        "auteur": "Arthur Rimbaud",
+        "disponible": true,
+        "id": 20,
+        "titre": "Une Saison en enfer"
+    },
+    {
+        "auteur": "Frank Herbert",
+        "disponible": true,
+        "id": 21,
+        "titre": "Le cycle de Dune, tome 1 : Dune"
+    },
+    {
+        "auteur": "Isaac Asimov",
+        "disponible": true,
+        "id": 22,
+        "titre": "Fondation"
+    },
+    {
+        "auteur": "H.G. Wells",
+        "disponible": true,
+        "id": 23,
+        "titre": "La Guerre des mondes"
+    },
+    {
+        "auteur": "Robin Hobb",
+        "disponible": true,
+        "id": 25,
+        "titre": "L'Assassin royal, tome 1 : L'Apprenti assassin"
+    },
+    {
+        "auteur": "J.R.R. Tolkien",
+        "disponible": true,
+        "id": 26,
+        "titre": "Le Seigneur des anneaux, tome 1 : La Communaut\u00c3\u00a9 de l'anneau"
+    },
+    {
+        "auteur": "Douglas Adams",
+        "disponible": true,
+        "id": 27,
+        "titre": "Le Guide du voyageur galactique"
+    },
+    {
+        "auteur": "Iain M. Banks",
+        "disponible": true,
+        "id": 28,
+        "titre": "Le Cycle de la Culture, tome 1 : Consider Phlebas"
+    },
+    {
+        "auteur": "Edgar Rice Burroughs",
+        "disponible": true,
+        "id": 29,
+        "titre": "Le Cycle de Mars, tome 1 : Les Sables de Mars"
+    },
+    {
+        "auteur": "Frank Herbert",
+        "disponible": true,
+        "id": 30,
+        "titre": "Le Cycle de Dune, tome 2 : Le Messie de Dune"
+    }
+]

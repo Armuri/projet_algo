@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "nom": "Dupont",
         "prenom": "Jean",
         "age": 23,
@@ -8,6 +9,7 @@
         "livres": []
     },
     {
+        "id": 2,
         "nom": "Martin",
         "prenom": "Alice",
         "age": 28,
@@ -16,6 +18,7 @@
         "livres": []
     },
     {
+        "id": 3,
         "nom": "Leblanc",
         "prenom": "Julie",
         "age": 21,
@@ -24,6 +27,7 @@
         "livres": []
     },
     {
+        "id": 4,
         "nom": "Lefebvre",
         "prenom": "Antoine",
         "age": 32,
@@ -32,6 +36,7 @@
         "livres": []
     },
     {
+        "id": 5,
         "nom": "Girard",
         "prenom": "Sophie",
         "age": 19,
@@ -40,6 +45,7 @@
         "livres": []
     },
     {
+        "id": 6,
         "nom": "Moreau",
         "prenom": "Lucie",
         "age": 25,
@@ -48,6 +54,7 @@
         "livres": []
     },
     {
+        "id": 7,
         "nom": "Tremblay",
         "prenom": "Mélanie",
         "age": 20,
@@ -56,6 +63,7 @@
         "livres": []
     },
     {
+        "id": 8,
         "nom": "Gagnon",
         "prenom": "Maxime",
         "age": 29,
@@ -64,6 +72,7 @@
         "livres": []
     },
     {
+        "id": 9,
         "nom": "Roy",
         "prenom": "Alexandre",
         "age": 22,
@@ -72,6 +81,7 @@
         "livres": []
     },
     {
+        "id": 10,
         "nom": "Bergeron",
         "prenom": "Philippe",
         "age": 31,
